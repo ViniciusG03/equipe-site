@@ -8,3 +8,5 @@ Lucas Silvino;
 Caio;
 Rhuan Victor;
 Yasmin.
+
+Link para o site: https://viniciusg03.github.io/equipe-site/
